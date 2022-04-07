@@ -4,3 +4,4 @@ streamlit
 PyPDF2==1.26.0
 pikepdf==5.1.0
 camelot-py==0.10.1
+opencv-python-headless
